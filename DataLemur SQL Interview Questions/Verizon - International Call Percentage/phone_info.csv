@@ -1,0 +1,19 @@
+caller_id,country_id,network,phone_number,receiver_id
+7,US,Verizon,+1-415-224-6663
+11,IN,Vodafone,+91 7503-907302
+12,IN,Vodafone,+91 2287-664895
+13,UK,Vodafone,+44 7700 900442
+24,DE,Deutsche Telekom,+49 30 901820
+14,UK,Vodafone,+44 117 496 0108
+31,UK,Vodafone,+44 118 496 0210
+33,UK,Vodafone,+44 115 496 0825
+34,UK,Vodafone,+44 118 496 0951
+35,DE,Deutsche Telekom,+49 30 221447813
+36,DE,Deutsche Telekom,+49 30 674906564
+37,DE,Deutsche Telekom,+49 30 578535325
+45,DE,Deutsche Telekom,+49 30 725036951
+46,DE,Deutsche Telekom,+49 30 826268098
+50,DE,Deutsche Telekom,+49 30 106629867
+4,US,Verizon,+1-212-897-1964
+5,US,Verizon,+1-212-346-9529
+6,US,Verizon,+1-703-828-4774
