@@ -1,0 +1,11 @@
+item_id,item_type,item_category,square_footage
+1374,prime_eligible,mini refrigerator,68.00
+4245,not_prime,standing lamp,26.40
+5743,prime_eligible,washing machine,325.00
+8543,not_prime,dining chair,64.50
+2556,not_prime,vase,15.00
+2452,prime_eligible,television,85.00
+3255,not_prime,side table,22.60
+1672,prime_eligible,laptop,8.50
+4256,prime_eligible,wall rack,55.50
+6325,prime_eligible,desktop computer,13.20
