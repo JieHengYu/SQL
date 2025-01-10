@@ -1,0 +1,16 @@
+category,product,user_id,spend,transaction_date
+appliance,washing machine,123,219.80,03/02/2022 11:00:00
+electronics,vacuum,178,152.00,04/05/2022 10:00:00
+electronics,wireless headset,156,249.90,07/08/2022 10:00:00
+electronics,vacuum,145,189.00,07/15/2022 10:00:00
+electronics,computer mouse,195,45.00,07/01/2022 11:00:00
+appliance,refrigerator,165,246.00,12/26/2021 12:00:00
+appliance,refrigerator,123,299.99,03/02/2022 11:00:00
+appliance,washing machine,123,220.00,07/27/2022 04:00:00
+electronics,vacuum,156,145.66,08/10/2022 04:00:00
+electronics,wireless headset,145,198.00,08/04/2022 04:00:00
+electronics,wireless headset,215,19.99,09/03/2022 16:00:00
+appliance,microwave,169,49.99,08/28/2022 16:00:00
+appliance,microwave,101,34.49,03/01/2023 17:00:00
+electronics,3.5mm headphone jack,101,7.99,10/07/2022 16:00:00
+appliance,microwave,101,64.95,07/08/2023 16:00:00
